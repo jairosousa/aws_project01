@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.jnsousa</groupId>
     <artifactId>aws_project01</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <name>aws_project01</name>
     <description>Projeto aws curso do Siecola</description>
     <properties>
